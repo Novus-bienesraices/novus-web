@@ -1,2 +1,9 @@
-# novus-web
-Sitio web oficial de NOVUS Bienes Raíces
+NOVUS
+│
+├── Inicio
+├── Propiedades
+│    ├── Venta
+│    └── Alquiler
+├── Tasá tu propiedad
+├── Nosotros
+└── Contacto
